@@ -1,0 +1,50 @@
+{
+  "idToTestNameHash": {
+    "FrScTe1": "From Scratch Tests phoneNumber - the cellphone object has property phoneNumber whose value is a 10 digit string",
+    "FrScTe2": "From Scratch Tests model - the cellphone object has a property `model` that's value is a string",
+    "FrScTe3": "From Scratch Tests contacts - the cellphone object has a `contacts` property that's an empty array",
+    "FrScTe4": "From Scratch Tests addContact - the cellphone object has a method that adds a contact object to the contacts array",
+    "FrScTe5": "From Scratch Tests numberOfContacts - the cellphone object has a method that gets the length of the contacts array",
+    "FrScTe6": "From Scratch Tests lookUp - the cellphone object has a method that looks up a contact and returns their number",
+    "FrScTe7": "From Scratch Tests lookUp - the cellphone object has a method that looks up a contact and \"Contact not found.\" if no match.",
+    "FrScTe8": "From Scratch Tests deleteContact - the cellphone object has a method that removes a contact when given a perfectly matching name",
+    "FrScTe9": "From Scratch Tests deleteContact - the cellphone object's method deleteContact returns `Contact not found.` if given a bad name",
+    "FrScTe10": "From Scratch Tests makeCall - the cellphoneObject's makeCall method for name calls a contact member, either with a number of name",
+    "FrScTe11": "From Scratch Tests makeCall - the cellphoneObject's makeCall method returns 'Contact not found' if given a name or number it can't find",
+    "FrScTe12": "From Scratch Tests cellphoneFactory - the factory function returns a dynamic phone object just like we handmade"
+  },
+  "testNameToIdHash": {
+    "From Scratch Tests phoneNumber - the cellphone object has property phoneNumber whose value is a 10 digit string": "FrScTe1",
+    "From Scratch Tests model - the cellphone object has a property `model` that's value is a string": "FrScTe2",
+    "From Scratch Tests contacts - the cellphone object has a `contacts` property that's an empty array": "FrScTe3",
+    "From Scratch Tests addContact - the cellphone object has a method that adds a contact object to the contacts array": "FrScTe4",
+    "From Scratch Tests numberOfContacts - the cellphone object has a method that gets the length of the contacts array": "FrScTe5",
+    "From Scratch Tests lookUp - the cellphone object has a method that looks up a contact and returns their number": "FrScTe6",
+    "From Scratch Tests lookUp - the cellphone object has a method that looks up a contact and \"Contact not found.\" if no match.": "FrScTe7",
+    "From Scratch Tests deleteContact - the cellphone object has a method that removes a contact when given a perfectly matching name": "FrScTe8",
+    "From Scratch Tests deleteContact - the cellphone object's method deleteContact returns `Contact not found.` if given a bad name": "FrScTe9",
+    "From Scratch Tests makeCall - the cellphoneObject's makeCall method for name calls a contact member, either with a number of name": "FrScTe10",
+    "From Scratch Tests makeCall - the cellphoneObject's makeCall method returns 'Contact not found' if given a name or number it can't find": "FrScTe11",
+    "From Scratch Tests cellphoneFactory - the factory function returns a dynamic phone object just like we handmade": "FrScTe12"
+  },
+  "testScores": {
+    "From Scratch Tests": {
+      "FrScTe1": 0,
+      "FrScTe2": 0,
+      "FrScTe3": 0,
+      "FrScTe4": 0,
+      "FrScTe5": 0,
+      "FrScTe6": 0,
+      "FrScTe7": 0,
+      "FrScTe8": 0,
+      "FrScTe9": 0,
+      "FrScTe10": 0,
+      "FrScTe11": 0,
+      "FrScTe12": 0
+    }
+  },
+  "humanReadable": {
+    "From Scratch Tests": "0/12",
+    "finalTestScore": "FINAL SCORE: 0/12"
+  }
+}
